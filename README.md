@@ -6,7 +6,7 @@ Interactive data portfolio featuring projects in **data analysis, dashboards, an
 
 ## 🚀 Live App
 
-👉 https://your-streamlit-link.streamlit.app
+👉 https://portfoliomp-chatbot.streamlit.app/
 
 ---
 
