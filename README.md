@@ -1,135 +1,66 @@
-# 💼 Mariela Palmieri – Data Analyst Portfolio
+# 🤖 AI Chatbot Portfolio – Mariela Palmieri
 
-Welcome to my data portfolio!
-This project showcases my work in **data analysis, dashboards, machine learning, and AI applications** through an interactive web app built with Streamlit.
+Interactive data portfolio featuring projects in **data analysis, dashboards, and machine learning**, enhanced with a **chatbot assistant**.
 
 ---
 
 ## 🚀 Live App
 
-👉 [View Portfolio](https://your-streamlit-link.streamlit.app)
+👉 https://your-streamlit-link.streamlit.app
 
 ---
 
-## 📊 About Me
+## 💬 Chatbot Assistant (Highlight)
 
-I am a **Junior Data Analyst** with experience in:
+This app includes a **built-in chatbot** designed to answer questions about:
 
-* Data Analysis & Exploratory Data Analysis (EDA)
-* Dashboard development (Power BI & Streamlit)
-* Machine Learning models
-* Data visualization and storytelling
-* AI-powered applications (chatbot integration)
+* My data skills (Python, Power BI, Streamlit)
+* Project experience (EDA, ML, dashboards)
+* Tools and technologies
 
----
-
-## 🛠️ Technologies Used
-
-* **Python**
-* **Pandas**
-* **Streamlit**
-* **Scikit-learn**
-* **Power BI**
-* **LLM / Chatbot (Demo Assistant)**
+✔ Works as a **demo AI assistant**
+✔ Simulates real conversational interaction
+✔ Easily scalable to integrate real LLM APIs
 
 ---
 
-## 📁 Projects Included
+## 📊 Projects
 
-### 🛢️ Texas Crime Analysis (EDA + Power BI)
-
-* Exploratory Data Analysis using Python
-* Data cleaning and transformation
-* Interactive dashboard built in Power BI
-* Insights focused on trends and regional comparisons
-
----
-
-### 📈 Gold Dashboard
-
-* Financial analysis of gold market trends
-* Time series analysis
-* KPI tracking in Power BI
+* 🛢️ Texas Analysis → EDA + Power BI dashboard
+* 📈 Gold Dashboard → financial insights
+* 🤖 Titanic → machine learning model
+* 🎬 Netflix → interactive Streamlit app
+* 🎮 Video Games → exploratory analysis
 
 ---
 
-### 🤖 Titanic Machine Learning
+## 🛠️ Tech Stack
 
-* Survival prediction model
-* Feature engineering
-* Model training and evaluation using Scikit-learn
+`Python` | `Pandas` | `Streamlit` | `Scikit-learn` | `Power BI`
 
 ---
 
-### 🎬 Netflix Data App
-
-* Interactive Streamlit application
-* Filters by genre, country, and year
-* Dynamic visualizations and KPIs
-
----
-
-### 🎮 Video Games Analysis
-
-* Exploratory analysis of gaming industry data
-* Trends by region, platform, and genre
-
----
-
-## 💬 Chatbot Assistant (Demo)
-
-This portfolio includes a **demo chatbot assistant** that can answer questions about my skills and experience.
-
-Features:
-
-* Responds to questions about tools (Python, Power BI, Streamlit)
-* Simulates an AI assistant experience
-* Designed to be easily extended with real LLM APIs
-
-> ⚠️ Note: The chatbot currently runs in demo mode (no API required).
-> It can be upgraded to a fully functional AI assistant using OpenAI or similar services.
-
----
-
-## 💬 Features
-
-* Interactive project filtering
-* Clean and user-friendly UI
-* Demo chatbot assistant
-* Easy navigation across projects
-
----
-
-## ▶️ How to Run Locally
+## ▶️ Run Locally
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/MarielaPal32/portfolio-chatbot
+cd portfolio-chatbot
 pip install -r requirements.txt
 streamlit run app.py
 ```
 
 ---
 
-## 🌐 Deployment
+## 📌 Notes
 
-This app is deployed using **Streamlit Cloud**.
+* Chatbot runs in **demo mode (no API required)**
+* Can be upgraded to a real AI assistant
 
 ---
 
 ## 📫 Contact
 
-* LinkedIn: https://www.linkedin.com/in/mariela-palmieri/
+* LinkedIn: https://linkedin.com/in/mariela-palmieri
 * GitHub: https://github.com/MarielaPal32
-
----
-
-## ⭐ Final Note
-
-This portfolio reflects my journey into data analytics and my ability to combine:
-
-📊 Data Analysis + 📈 Visualization + 🤖 AI
-
-to build interactive and insightful data applications.
 
 ---
